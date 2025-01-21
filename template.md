@@ -272,7 +272,7 @@ matig. ons ontwerp is goed maar de docenten vinden dat het nut van de quiz nog h
 
 # Logboek
 
-**Datum:** `[2#/01/2025]`  
+**Datum:** `[21/01/2025]`  
 **Studentnaam:** `[Ralf Parasie]`  
 **Groepsnaam:** `[AMD Ryzen 5]`
 
@@ -286,8 +286,10 @@ matig. ons ontwerp is goed maar de docenten vinden dat het nut van de quiz nog h
 
 
 > **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Planning page made with subpage planning example
+- map page made and doen
+- vragen toegepast met yannis
+- zeer simpel moodboard met inspiratie nieuw design aangemaakt
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
@@ -298,9 +300,7 @@ matig. ons ontwerp is goed maar de docenten vinden dat het nut van de quiz nog h
 
 
 > **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
-
+- begrijpen van nut van onze app
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
@@ -310,8 +310,9 @@ matig. ons ontwerp is goed maar de docenten vinden dat het nut van de quiz nog h
 - Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
 
 
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
+> **Algmeeen gevoel:** 
+alles voeldoet vlot en we geraken vooruit maar we moeten wel opschieten voor de user testing
+> - **"Blij"** :🟢:  
 > - **"Gefrustreerd"** :zap:
 
 ---

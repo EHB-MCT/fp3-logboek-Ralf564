@@ -415,9 +415,10 @@ Alles af kunnen doen en user testing heeft ons veel geleerd over de site. nog wa
 - Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
 
 
-> **Algmeeen gevoel:**  
+> **Algmeeen gevoel:**
+vandaag heb ik beseft dat we een beetje laat zijn begonnen met het coderen en we zijn laat voor front-end. desifn is als goed als af dus nu doen we coderen.
 > - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
+> - **"Gefrustreerd"** :🔴:
 
 ---
 
@@ -442,8 +443,7 @@ Alles af kunnen doen en user testing heeft ons veel geleerd over de site. nog wa
 
 
 > **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- preparatie presentation
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
@@ -454,8 +454,7 @@ Alles af kunnen doen en user testing heeft ons veel geleerd over de site. nog wa
 
 
 > **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+- beter preparatie praten
 
 ---
 
@@ -466,10 +465,10 @@ Alles af kunnen doen en user testing heeft ons veel geleerd over de site. nog wa
 - Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
 
 
-> **Algmeeen gevoel:** 
-vandaag heb ik beseft dat we een beetje laat zijn begonnen met het coderen en we zijn laat voor front-end. desifn is als goed als af dus nu doen we coderen.
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :🔴:
+> **Algmeeen gevoel:**
+positief, wat dingens te veranderen en quiz beter doen
+> - **"Blij"** :🟢:  
+> - **"Gefrustreerd"** :zap:
 
 ---
 
